@@ -1,0 +1,18 @@
+{
+  "anchor": [
+    85.56332105597872,
+    11.674137016015965
+  ],
+  "headRadiusSrc": 12.166447037302692,
+  "headRadiusRatio": 0.62,
+  "frames": [
+    "assets/spider/f00.png",
+    "assets/spider/f01.png",
+    "assets/spider/f02.png",
+    "assets/spider/f03.png",
+    "assets/spider/f04.png",
+    "assets/spider/f05.png"
+  ],
+  "durationMs": 400,
+  "msPerFrame": 65
+}
