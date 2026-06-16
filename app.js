@@ -202,7 +202,7 @@ function updateStatus() {
     statusEl.className = "status over";
     hintEl.textContent = "点击棋盘开始新局";
   } else {
-    statusEl.textContent = "点空格放障碍，围住蜘蛛耄耋";
+    statusEl.textContent = "点空格放障碍，围住耄耋";
     statusEl.className = "status";
     hintEl.textContent = `猫 (${state.cat[0]},${state.cat[1]}) · 障碍 ${state.blocked.size}`;
   }
